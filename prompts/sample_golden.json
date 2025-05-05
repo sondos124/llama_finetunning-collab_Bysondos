@@ -1,0 +1,7 @@
+{
+  "What is artificial intelligence?": "Artificial intelligence is the ability of machines to simulate human intelligence to perform tasks like learning, reasoning, and problem-solving.",
+  "Explain quantum computing in simple terms.": "Quantum computing uses quantum bits to perform complex calculations faster than classical computers by leveraging quantum superposition and entanglement.",
+  "What are transformers in machine learning?": "Transformers are deep learning models that process sequential data using self-attention mechanisms, excelling at tasks like language translation and text generation.",  
+  "What is STM32CubeIDE and how is it used in embedded systems projects?": "STM32CubeIDE is an integrated development environment provided by STMicroelectronics for STM32 microcontrollers. It combines code editing, compilation, configuration, and debugging tools. Developers use it to configure peripherals, write firmware, and flash code onto the MCU.",
+  "How do you interface sensors with an STM32 microcontroller?": "Sensors are interfaced with STM32 microcontrollers using various communication protocols like I2C, SPI, or UART. GPIOs can also be used for simple digital or analog sensor connections. STM32CubeMX helps configure these peripherals easily before writing the interaction code."
+}

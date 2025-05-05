@@ -1,0 +1,4 @@
+What is the function of the NVIC in the STM32F4 microcontroller?
+Name two low-power modes available in the STM32F4 series.
+Which timer in STM32F4 supports complementary PWM outputs and dead-time insertion?
+What is the solar system?"
